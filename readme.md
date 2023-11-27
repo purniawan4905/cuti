@@ -25,11 +25,3 @@ There are 3 test accounts, those are : <br />
   User : staff <br />
   Pass : staff <br />
 
-<br />
-![Dashboard](preview/dashboard.png)
-![Manage Cuti](preview/manage.png)
-![Pengajuan Cuti](preview/pengajuan.png)
-![Laporan Cuti](preview/laporan.png)
-
-
-**Thanks to me later.**
